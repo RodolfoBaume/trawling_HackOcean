@@ -27,9 +27,9 @@ Para conocer mas del proyecto y el porque de la propuesta puede leer el siguient
 
 El sitio tienen acceso a la **APP Client** desarrollada en VUE 3 que ofrece una solución a la problematica presentada.
 
- [https://github.com/RodolfoBaume/artisanal-fishing-client.git](https://github.com/RodolfoBaume/artisanal-fishing-client.git)
+ [https://github.com/WollenMoth/artisanal-fishing-client](https://github.com/WollenMoth/artisanal-fishing-client)
 
-El despliegue se puede visitar en la dirección [https://black-smoke-018887f10.1.azurestaticapps.net/](https://black-smoke-018887f10.1.azurestaticapps.net/)
+El despliegue se puede visitar en la dirección [artisanal-fishing-client.herokuapp.com/](artisanal-fishing-client.herokuapp.com/)
 
 ![app pesca_arrastre](https://user-images.githubusercontent.com/74028526/168504754-1df39135-7faf-41ac-865b-113d98db7342.png)
 
@@ -38,6 +38,6 @@ El despliegue se puede visitar en la dirección [https://black-smoke-018887f10.1
 
 Dicha APP utiliza un **API de Node**, con Base de Datos en Postgres
 
-[https://github.com/WollenMoth/artisanal-fishing-api.git](https://github.com/WollenMoth/artisanal-fishing-api.git)
+[https://github.com/WollenMoth/artisanal-fishing-api](https://github.com/WollenMoth/artisanal-fishing-api)
 
-El despliegue del API se encuentra en [https://apiartisanalfishing.azurewebsites.net/](https://apiartisanalfishing.azurewebsites.net/)
+El despliegue del API se encuentra en [https://artisanal-fishing-api.herokuapp.com/api/v1](https://artisanal-fishing-api.herokuapp.com/api/v1)
